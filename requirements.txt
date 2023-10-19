@@ -1,1 +1,4 @@
-N
+matplotlib==3.5.2
+numpy==1.23.0
+qiskit==0.39.4
+qiskit_aer==0.11.2
