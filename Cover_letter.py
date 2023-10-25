@@ -1,5 +1,5 @@
 #Creator: Vladlen G. 10/19/2023
-#Code:  "How to get hired by IBM?" ==========================================================================================
+#Code:  "Cover letter for quantum simulations 101" ==========================================================================================
 from qiskit import IBMQ, Aer, transpile, assemble            # Importing Qiskit packages
 from qiskit import QuantumCircuit, ClassicalRegister, QuantumRegister
 from qiskit_aer import AerSimulator
