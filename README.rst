@@ -30,4 +30,4 @@ Contents of requirements.txt
 Code explanation:
 -----
 
-        This cover letter encodes a classical string into a quantum circuit message, run the circuit to decode it (reverse engineering!)
+        This cover letter encodes a classical string into a quantum circuit message, run the circuit to decode it (reverse engineering!).
