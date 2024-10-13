@@ -15,7 +15,7 @@ Usage
 
 ::
 
-        Run cover_letter.py
+        python cover_letter.py
                 
 Contents of requirements.txt
 -----
