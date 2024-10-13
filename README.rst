@@ -12,7 +12,9 @@ Installation of required libraries
 
 Usage
 -----
+
 ::
+
         Run cover_letter.py
                 
 Contents of requirements.txt
